@@ -3,4 +3,5 @@ this is my first hello world
 
 Hi Humans!
 
-Hubot here, I like Node.js and Coffeescript
+Hubot there, I like Node.js and Coffeescript
+tea!
